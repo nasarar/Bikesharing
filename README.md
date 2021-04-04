@@ -22,3 +22,7 @@ Interactive Charts on Tableau Server: https://public.tableau.com/profile/ryan.na
 
 ## Summary
 The snapshot of New York City's data during August 2019 is a good start to what potentially Des Moines can be in terms of its bike sharing program. From the data, mos of New York's regular subscribers are male and are travelling during weekdays. This is suspected to be used as a mode of transportation for work rather than used by tourists to get around. This is the biggest reliable market that Des Moines can target to grow the program with especially with its fast growing city for office workers. The other target could also land for city residents goign around the city's vast cultural ammenities such as its botanical gardens, farmer's market, and sculpture parks. Although this data is a good start to what Des Moine's bike sharing program could be like, there are a few more kew information that might be useful for investors. The following analysis should be performed by gathering the average lifespan of the bike before needing a service and mapping popular bikeroutes based off of the start and end location of the rides.
+
+
+To see individual worksheet:
+[link to dashboard] https://public.tableau.com/profile/ryan.nasara#!/vizhome/CitiBikeAnalysis-NYC/NumberofRides
